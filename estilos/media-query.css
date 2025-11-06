@@ -8,6 +8,13 @@
         background-image: linear-gradient(to top,  #FE84A9, #915FED, #532FAC);
     }
 
+    main{
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: center;
+        align-items: center;
+    }
+
     section#login{
         width: 80vw;
         height: 330px;
@@ -36,6 +43,13 @@
 
     body {
         background-image: linear-gradient(to top,  #FE84A9, #915FED, #532FAC);
+    }
+
+    main{
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: center;
+        align-items: center;
     }
 
     section#login {
